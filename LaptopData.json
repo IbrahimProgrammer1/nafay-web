@@ -1,0 +1,652 @@
+[
+    {
+      "Laptop Name": "HP ProBook 450 g3",
+      "Brand": "HP",
+      "Processor": "i5-6th",
+      "RAM": "8",
+      "Storage": "500 HDD + 128 SSD",
+      "Price": "42,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "HP AMD A8 4500",
+      "Brand": "HP",
+      "Processor": "",
+      "RAM": "8",
+      "Storage": "500 HDD",
+      "Price": "26,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "HP Laptop (15) Radeon",
+      "Brand": "HP",
+      "Processor": "AMD A4",
+      "RAM": "8",
+      "Storage": "240 SSD",
+      "Price": "30,000",
+      "Graphic Card": "Radeon R.3 1/2 Card",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "HP ProBook 455 g5",
+      "Brand": "HP",
+      "Processor": "AMD A9",
+      "RAM": "8",
+      "Storage": "128 SSD",
+      "Price": "35,000",
+      "Graphic Card": "512 MB Card",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "HP Folio 9480",
+      "Brand": "HP",
+      "Processor": "i5-4th",
+      "RAM": "8",
+      "Storage": "128 SSD",
+      "Price": "29,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "HP 9470 Folio",
+      "Brand": "HP",
+      "Processor": "i5-3rd",
+      "RAM": "4",
+      "Storage": "320 HDD",
+      "Price": "25,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "HP NoteBook Redeon 122",
+      "Brand": "HP",
+      "Processor": "AMD",
+      "RAM": "8",
+      "Storage": "128 SSD",
+      "Price": "25,000",
+      "Graphic Card": "Radeon R2 1GB",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "HP 640 G2",
+      "Brand": "HP",
+      "Processor": "i5-4th",
+      "RAM": "8",
+      "Storage": "128 SSD",
+      "Price": "30,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "HP EWX (17) NoteBook",
+      "Brand": "HP",
+      "Processor": "i5-4th",
+      "RAM": "8",
+      "Storage": "128 SSD",
+      "Price": "30,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "HP Pavilion NoteBook (17)",
+      "Brand": "HP",
+      "Processor": "i7-4th",
+      "RAM": "8",
+      "Storage": "128 SSD",
+      "Price": "32,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "HP NoteBook Radeon",
+      "Brand": "HP",
+      "Processor": "AMD A8",
+      "RAM": "8",
+      "Storage": "128 SSD",
+      "Price": "28,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "HP 840 G3",
+      "Brand": "HP",
+      "Processor": "i5-6th",
+      "RAM": "8",
+      "Storage": "256 SSD",
+      "Price": "44,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "HP Zbook 15",
+      "Brand": "HP",
+      "Processor": "i5-4th",
+      "RAM": "8",
+      "Storage": "180 SSD",
+      "Price": "33000",
+      "Graphic Card": "1GB Card",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "HP Folio 1020",
+      "Brand": "HP",
+      "Processor": "M-5Y51 1020",
+      "RAM": "8",
+      "Storage": "128 SSD",
+      "Price": "30,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "HP ProBook 4540",
+      "Brand": "HP",
+      "Processor": "i3-3rd",
+      "RAM": "4",
+      "Storage": "320 HDD",
+      "Price": "21,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "HP Zbook 15 G4",
+      "Brand": "HP",
+      "Processor": "i7-7th",
+      "RAM": "8",
+      "Storage": "128 SSD",
+      "Price": "65,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "HP Elite Book 840 G5",
+      "Brand": "HP",
+      "Processor": "i7-8th",
+      "RAM": "8",
+      "Storage": "256 SSD",
+      "Price": "67,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "HP Elite Book 840 G5",
+      "Brand": "HP",
+      "Processor": "i5-8th",
+      "RAM": "8",
+      "Storage": "256 SSD",
+      "Price": "60,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "HP Zbook 144 G5",
+      "Brand": "HP",
+      "Processor": "i5-8th",
+      "RAM": "8",
+      "Storage": "256 SSD",
+      "Price": "64,000",
+      "Graphic Card": "2 GB Card",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "HP Pavilion x 360",
+      "Brand": "HP",
+      "Processor": "i5-10th",
+      "RAM": "8",
+      "Storage": "256 SSD",
+      "Price": "78,000",
+      "Features": "360",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "HP Z Book AQ",
+      "Brand": "HP",
+      "Processor": "i7-8th",
+      "RAM": "32",
+      "Storage": "512 SSD",
+      "Price": "110,000",
+      "Graphic Card": "4 GB Card",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "HP Elite Book 850 G5",
+      "Brand": "HP",
+      "Processor": "i7-8th",
+      "RAM": "8",
+      "Storage": "256 SSD",
+      "Price": "74,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "HP Elite Book 1040",
+      "Brand": "HP",
+      "Processor": "i5-7th",
+      "RAM": "8",
+      "Storage": "256 SSD",
+      "Price": "54,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "HP Probook 650 G8",
+      "Brand": "HP",
+      "Processor": "i5-11th",
+      "RAM": "16",
+      "Storage": "512 SSD",
+      "Price": "95,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "HP Pavilion Laptop 15",
+      "Brand": "HP",
+      "Processor": "i5-11th",
+      "RAM": "16",
+      "Storage": "512 SSD",
+      "Price": "85,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Dell 5240",
+      "Brand": "DELL",
+      "Processor": "i5-2nd",
+      "RAM": "4",
+      "Storage": "320 HDD",
+      "Price": "21000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Dell 6420",
+      "Brand": "DELL",
+      "Processor": "i5-2nd",
+      "RAM": "4",
+      "Storage": "250 HDD",
+      "Price": "20,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Dell Inspiron 5558",
+      "Brand": "DELL",
+      "Processor": "i3-5th",
+      "RAM": "8",
+      "Storage": "128 SSD",
+      "Price": "30,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Dell Inspiron 15",
+      "Brand": "DELL",
+      "Processor": "i3-7th",
+      "RAM": "8",
+      "Storage": "256 SSD",
+      "Price": "39,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Dell 5570",
+      "Brand": "DELL",
+      "Processor": "i5 -6th",
+      "RAM": "8",
+      "Storage": "256 SSD",
+      "Price": "42,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Dell 3500",
+      "Brand": "DELL",
+      "Processor": "i5-8th",
+      "RAM": "8",
+      "Storage": "128 SSD",
+      "Price": "50,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Dell Inspiron 5737",
+      "Brand": "DELL",
+      "Processor": "i5-4th",
+      "RAM": "8",
+      "Storage": "128 SSD",
+      "Price": "32,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Dell Precision 3800",
+      "Brand": "DELL",
+      "Processor": "i7-4th",
+      "RAM": "8",
+      "Storage": "256 SSD",
+      "Price": "40,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Dell Inspiron 15 3555",
+      "Brand": "DELL",
+      "Processor": "AMD",
+      "RAM": "4",
+      "Storage": "500 HDD",
+      "Price": "25,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Dell 5450",
+      "Brand": "DELL",
+      "Processor": "i5-5th",
+      "RAM": "8",
+      "Storage": "128 SSD",
+      "Price": "30,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Dell 3440",
+      "Brand": "DELL",
+      "Processor": "i5-4th",
+      "RAM": "8",
+      "Storage": "128 SSD",
+      "Price": "28,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Dell 5440",
+      "Brand": "DELL",
+      "Processor": "i7-4th",
+      "RAM": "4",
+      "Storage": "128 SSD",
+      "Price": "30,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Dell 7440",
+      "Brand": "DELL",
+      "Processor": "i5-4th",
+      "RAM": "8",
+      "Storage": "128 SSD",
+      "Price": "30,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Dell 7270",
+      "Brand": "DELL",
+      "Processor": "i7-6th",
+      "RAM": "8",
+      "Storage": "256 SSD",
+      "Price": "37,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Dell 5470",
+      "Brand": "DELL",
+      "Processor": "i5-6th",
+      "RAM": "8",
+      "Storage": "256 SSD",
+      "Price": "38,000",
+      "Graphic Card": "2 GB Card",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Dell Inspiron 3521",
+      "Brand": "DELL",
+      "Processor": "Celeron",
+      "RAM": "4",
+      "Storage": "250 HDD",
+      "Price": "20,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Dell 7440",
+      "Brand": "DELL",
+      "Processor": "i7-6th",
+      "RAM": "8",
+      "Storage": "256 SSD",
+      "Price": "44,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Dell Inspiron 7568",
+      "Brand": "DELL",
+      "Processor": "i5-6th",
+      "RAM": "8",
+      "Storage": "256 SSD",
+      "Price": "52000",
+      "Features": "360 Touch",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Dell 7390 2 in 1 {x3}",
+      "Brand": "DELL",
+      "Processor": "i5-8th",
+      "RAM": "8",
+      "Storage": "256 SSD",
+      "Price": "47,000",
+      "Features": "360 Touch",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Dell 5490",
+      "Brand": "DELL",
+      "Processor": "i5-8th",
+      "RAM": "8",
+      "Storage": "256 SSD",
+      "Price": "45,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Dell 7490",
+      "Brand": "DELL",
+      "Processor": "i7-8th",
+      "RAM": "8",
+      "Storage": "256 SSD",
+      "Price": "52,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Dell 7285 2 in 1",
+      "Brand": "DELL",
+      "Processor": "i7-7th",
+      "RAM": "8",
+      "Storage": "128 SSD",
+      "Price": "38,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Dell 3400",
+      "Brand": "DELL",
+      "Processor": "i7-8th",
+      "RAM": "8",
+      "Storage": "256 SSD",
+      "Price": "50,000",
+      "Graphic Card": "2Gb Card",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Dell 7400",
+      "Brand": "DELL",
+      "Processor": "i5-8th",
+      "RAM": "8",
+      "Storage": "256 SSD",
+      "Price": "50,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Dell 7420",
+      "Brand": "DELL",
+      "Processor": "i7-11th",
+      "RAM": "16",
+      "Storage": "256 SSD",
+      "Price": "85,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Dell 5420",
+      "Brand": "DELL",
+      "Processor": "i5-11th",
+      "RAM": "16",
+      "Storage": "256 SSD",
+      "Price": "70,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Lenovo T560",
+      "Brand": "LENOVO",
+      "Processor": "i5-6th",
+      "RAM": "8",
+      "Storage": "240 SSD",
+      "Price": "42,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Lenovo Radeon R4",
+      "Brand": "LENOVO",
+      "Processor": "AMD A6",
+      "RAM": "8",
+      "Storage": "128 SSD",
+      "Price": "30,000",
+      "Graphic Card": "1 GB Graphics Card",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Lenovo T460",
+      "Brand": "LENOVO",
+      "Processor": "i5-6th",
+      "RAM": "8",
+      "Storage": "256 SSD",
+      "Price": "38,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Lenovo T470",
+      "Brand": "LENOVO",
+      "Processor": "i5-6th",
+      "RAM": "8",
+      "Storage": "256 SSD",
+      "Price": "37,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Asus Tek",
+      "Brand": "Asus",
+      "Processor": "i7-7th",
+      "RAM": "8",
+      "Storage": "128 SSD + 500 HDD",
+      "Price": "65,000",
+      "Graphic Card": "2 GB Graphics Card",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Asus Notebook TP 300L",
+      "Brand": "Asus",
+      "Processor": "i5-4th",
+      "RAM": "6",
+      "Storage": "128 SSD",
+      "Price": "30,000",
+      "Features": "360 Rotate Touch",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Asus Notebook Q302L",
+      "Brand": "Asus",
+      "Processor": "i5-5th",
+      "RAM": "8",
+      "Storage": "128 SSD",
+      "Price": "32,000",
+      "Features": "360 Rotate Touch",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Lenovo Yoga S1 {x2}",
+      "Brand": "LENOVO",
+      "Processor": "i3-4th",
+      "RAM": "4",
+      "Storage": "128 SSD",
+      "Price": "25,000",
+      "Features": "360 Rotate Touch",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Lenovo ThinkBook Plus",
+      "Brand": "LENOVO",
+      "Processor": "i5-10th",
+      "RAM": "8",
+      "Storage": "256 SSD",
+      "Price": "70,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Lenovo e480",
+      "Brand": "LENOVO",
+      "Processor": "i5-8th",
+      "RAM": "8",
+      "Storage": "256 SSD",
+      "Price": "45,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Lenovo L13",
+      "Brand": "LENOVO",
+      "Processor": "i5-10th",
+      "RAM": "8",
+      "Storage": "256 SSD",
+      "Price": "58,000",
+      "Features": "",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Lenovo Tablet Gen 3",
+      "Brand": "LENOVO",
+      "Processor": "i5-8th",
+      "RAM": "8",
+      "Storage": "256 SSD",
+      "Price": "50,000",
+      "Features": "Touch",
+      "Image": ""
+    },
+    {
+      "Laptop Name": "Lenovo X1",
+      "Brand": "LENOVO",
+      "Processor": "i5-8th",
+      "RAM": "8",
+      "Storage": "256 SSD",
+      "Price": "50,000",
+      "Features": "",
+      "Image": ""
+    }
+  ]

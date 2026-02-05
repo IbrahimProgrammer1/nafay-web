@@ -1,0 +1,18 @@
+
+> nafay-laptop-catalog@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.5.12
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.43.69:3000
+   - Environments: .env.local, .env
+
+ ✓ Starting...
+ ✓ Ready in 3.2s
+ ○ Compiling / ...
+ ✓ Compiled / in 2.9s (724 modules)
+ ✓ Compiled in 733ms (289 modules)
+ GET / 200 in 6852ms
+ GET / 200 in 919ms
+ GET / 200 in 1729ms
+ GET / 200 in 3446ms

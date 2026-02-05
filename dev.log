@@ -1,0 +1,23 @@
+
+> nafay-laptop-catalog@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.5.11
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.43.69:3000
+   - Environments: .env.local, .env
+
+ ✓ Starting...
+ ⚠ Mismatching @next/swc version, detected: 15.5.7 while Next.js is on 15.5.11. Please ensure these match
+ ✓ Ready in 4.6s
+ ○ Compiling /api/auth/admin ...
+ ✓ Compiled /api/auth/admin in 1952ms (301 modules)
+Received password: admin123
+Hash from env: /J6xoYcALaDwHRzLCEt5lOJ2
+Password valid: false
+ POST /api/auth/admin 401 in 2217ms
+   Reload env: .env
+ ✓ Compiled in 343ms (301 modules)
+   Reload env: .env.local
+ ✓ Compiled in 232ms (301 modules)
+[?25h

@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+    --primary: 24 100% 63%;
+    --primary-foreground: 30 100% 98%;
+    --secondary: 30 100% 80%;
+    --secondary-foreground: 30 100% 18%;
+    --muted: 30 40% 96%;
+    --muted-foreground: 30 16% 46%;
+    --accent: 24 100% 63%;
+    --accent-foreground: 30 100% 98%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 24 100% 63%;
+    --radius: 0.5rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+    /* Premium clean background */
+    background: #F8F5F2;
+    min-height: 100vh;
+  }
+
+  /* Premium Typography */
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-space-grotesk font-semibold;
+    letter-spacing: -0.02em;
+  }
+
+  p, span, div, a, button, input, textarea, label {
+    @apply font-inter;
+  }
+}
+
+@layer utilities {
+  /* Premium spacing system */
+  .section-spacing {
+    @apply mb-8;
+  }
+
+  .element-spacing {
+    @apply mb-4;
+  }
+
+  .inline-spacing {
+    @apply mb-2;
+  }
+}

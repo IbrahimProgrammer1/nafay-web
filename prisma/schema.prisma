@@ -1,0 +1,82 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Brand {
+  id        String   @id @default(uuid())
+  name      String   @db.VarChar(100)
+  slug      String   @unique @db.VarChar(100)
+  logoUrl   String?  @map("logo_url") @db.Text
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  laptops   Laptop[]
+
+  @@map("brands")
+}
+
+model Laptop {
+  id               String   @id @default(uuid())
+  brandId          String   @map("brand_id")
+  name             String   @db.VarChar(255)
+  slug             String   @unique @db.VarChar(255)
+  description      String   @db.Text
+  processor        String   @db.VarChar(100)
+  ram              String   @db.VarChar(50)
+  storage          String   @db.VarChar(50)
+  graphics         String   @db.VarChar(100)
+  display          String   @db.VarChar(100)
+  price            Decimal  @db.Decimal(10, 2)
+  stockQuantity    Int      @map("stock_quantity")
+  isAvailable      Boolean  @default(true) @map("is_available")
+  mainImage        String   @map("main_image") @db.Text
+  image2           String?  @map("image_2") @db.Text
+  image3           String?  @map("image_3") @db.Text
+  image4           String?  @map("image_4") @db.Text
+  image5           String?  @map("image_5") @db.Text
+  fakeRating       Decimal  @default(4.5) @map("fake_rating") @db.Decimal(2, 1)
+  fakeReviewCount  Int      @default(0) @map("fake_review_count")
+  viewCount        Int      @default(0) @map("view_count")
+  searchCount      Int      @default(0) @map("search_count")
+  wishlistCount    Int      @default(0) @map("wishlist_count")
+  createdAt        DateTime @default(now()) @map("created_at")
+  updatedAt        DateTime @updatedAt @map("updated_at")
+
+  brand            Brand    @relation(fields: [brandId], references: [id], onDelete: Cascade)
+  wishlistItems    WishlistItem[]
+
+  @@index([brandId])
+  @@index([slug])
+  @@map("laptops")
+}
+
+model WishlistItem {
+  id        String   @id @default(uuid())
+  laptopId  String   @map("laptop_id")
+  sessionId String   @map("session_id") @db.VarChar(255)
+  createdAt DateTime @default(now()) @map("created_at")
+
+  laptop    Laptop   @relation(fields: [laptopId], references: [id], onDelete: Cascade)
+
+  @@unique([laptopId, sessionId])
+  @@index([sessionId])
+  @@map("wishlist_items")
+}
+
+model SearchLog {
+  id           String   @id @default(uuid())
+  searchQuery  String   @map("search_query") @db.VarChar(255)
+  resultsCount Int      @map("results_count")
+  createdAt    DateTime @default(now()) @map("created_at")
+
+  @@index([searchQuery])
+  @@map("search_logs")
+}
