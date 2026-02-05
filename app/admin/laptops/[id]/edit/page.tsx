@@ -17,10 +17,23 @@ export default async function EditLaptopPage({
     notFound()
   }
 
+  // Serialize laptop data to plain JSON (convert Decimal to number)
+  const serializedLaptop = {
+    ...laptop,
+    price: Number(laptop.price),
+    createdAt: laptop.createdAt.toISOString(),
+    updatedAt: laptop.updatedAt.toISOString(),
+    brand: {
+      ...laptop.brand,
+      createdAt: laptop.brand.createdAt.toISOString(),
+      updatedAt: laptop.brand.updatedAt.toISOString(),
+    }
+  }
+
   return (
     <div>
       <h1 className="text-3xl font-bold mb-8">Edit Laptop</h1>
-      <LaptopForm laptop={laptop} isEdit />
+      <LaptopForm laptop={serializedLaptop} isEdit />
     </div>
   )
 }
